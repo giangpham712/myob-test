@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYOB.CodingTest", "MYOB.CodingTest\MYOB.CodingTest.csproj", "{63A55D77-E3E7-47D6-B787-650C44D35D38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYOB.CodingTest.Tests", "MYOB.CodingTest.Tests\MYOB.CodingTest.Tests.csproj", "{07B72030-9E61-4509-8B4F-CBC68582CFE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63A55D77-E3E7-47D6-B787-650C44D35D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A55D77-E3E7-47D6-B787-650C44D35D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A55D77-E3E7-47D6-B787-650C44D35D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A55D77-E3E7-47D6-B787-650C44D35D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B72030-9E61-4509-8B4F-CBC68582CFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B72030-9E61-4509-8B4F-CBC68582CFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B72030-9E61-4509-8B4F-CBC68582CFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B72030-9E61-4509-8B4F-CBC68582CFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {899F5C49-D581-4DBD-96CF-CB92DF61C4B8}
+	EndGlobalSection
+EndGlobal

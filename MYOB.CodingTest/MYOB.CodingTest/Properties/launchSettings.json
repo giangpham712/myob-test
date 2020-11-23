@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MYOB.CodingTest": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Mary Song\" 60000"
+    }
+  }
+}
